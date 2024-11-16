@@ -1,8 +1,5 @@
 ## Hi there 👋
 
-<!--
-**kaushalravin/kaushalravin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # 💫 About Me:
 *Hi, I am currently a 1st year BE computer science student at MIT<br>*I am currently learning C<br>*I have some learning experience in python, html , CSS
 
@@ -17,4 +14,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=kaushalravin&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
