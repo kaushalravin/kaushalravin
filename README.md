@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi Everyone!!!
 
 <h2 align="left">Hi 👋! My name is Kaushal N and I'm from Chennai.</h2>
 
