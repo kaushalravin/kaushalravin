@@ -2,7 +2,7 @@
 
 🎓 Computer Science Engineering Student at Madras Institute of Technology (MIT), Anna University
 📍 Chennai, India
-📈 CGPA: 9.80/10.0
+📈 CGPA: 9.79/10.0
 💻 Full-Stack Developer | DSA Enthusiast | AI & Recommendation Systems Learner
 
 ---
@@ -11,7 +11,7 @@
 
 * 🔭 Currently practicing advanced Data structures and Algorithms
 * 💡 Interested in **Full-Stack Development, AI Applications, Backend Engineering, and System Design**
-* 🧩 Solved **300+ LeetCode problems** across Graphs, Dynamic Programming, Trees, Backtracking, and Advanced Data Structures
+* 🧩 Solved **380+ LeetCode problems** across Graphs, Dynamic Programming, Trees, Backtracking, and Advanced Data Structures
 * ⚡ Touch typing speed: **105 WPM peak, 85 WPM with punctuation**
 * 🥋 Black Belt in Zen Isshinryu Karate
 
